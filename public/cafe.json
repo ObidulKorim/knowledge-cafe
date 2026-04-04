@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co.com/k6WMZrmF/8549252.jpg",
+    "title": "Understanding Modern JavaScript",
+    "author": "Daniel Carter",
+    "author_img": "https://randomuser.me/api/portraits/men/32.jpg",
+    "posted_date": "2026-03-10",
+    "reading_time": "8",
+    "hashtags": ["#javascript", "#webdev", "#coding"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co.com/Z64DmCnZ/upset-gloomy-uneasy-cute-pouting-redhead-girl-frowning-dont-want-speak-you-hiding-face.jpg",
+    "title": "Getting Started with React",
+    "author": "Sophia Lee",
+    "author_img": "https://randomuser.me/api/portraits/women/44.jpg",
+    "posted_date": "2026-03-12",
+    "reading_time": "6",
+    "hashtags": ["#react", "#frontend", "#javascript"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co.com/cS7JRFpq/6987180.jpg",
+    "title": "CSS Grid vs Flexbox Explained",
+    "author": "Michael Brown",
+    "author_img": "https://randomuser.me/api/portraits/men/65.jpg",
+    "posted_date": "2026-03-15",
+    "reading_time": "7",
+    "hashtags": ["#css", "#webdesign", "#frontend"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co.com/Ld7Zpb4z/6470534.jpg",
+    "title": "How APIs Work in Web Development",
+    "author": "Emma Wilson",
+    "author_img": "https://randomuser.me/api/portraits/women/68.jpg",
+    "posted_date": "2026-03-18",
+    "reading_time": "5",
+    "hashtags": ["#api", "#backend", "#webdev"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co.com/XxT0fC2j/5942142.jpg",
+    "title": "Beginner Guide to Git and GitHub",
+    "author": "Alex Martinez",
+    "author_img": "https://randomuser.me/api/portraits/men/21.jpg",
+    "posted_date": "2026-03-20",
+    "reading_time": "9",
+    "hashtags": ["#git", "#github", "#programming"]
+  }
+]
