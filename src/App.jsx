@@ -1,15 +1,15 @@
-
+import './index.css';
 import './App.css'
-import Header from './components/header/header/header';
-import Blogs from './components/header/blogs/blogs';
+import Header from './components/header/Header';
+import Blogs from './components/Blogs/Blogs';
 
 function App() {
 
 
   return (
     <>
-    <Header></Header>
-    <Blogs></Blogs>
+   <Header></Header>
+   <Blogs></Blogs>
     </>
   )
 }
