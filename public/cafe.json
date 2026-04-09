@@ -1,52 +1,43 @@
 [
   {
     "id": 1,
-    "cover": "https://i.ibb.co.com/k6WMZrmF/8549252.jpg",
+    "cover": "https://i.ibb.co.com/XkSkCJhF/1.jpg",
     "title": "Understanding Modern JavaScript",
     "author": "Daniel Carter",
-    "author_img": "https://randomuser.me/api/portraits/men/32.jpg",
-    "posted_date": "2026-03-10",
-    "reading_time": "8",
+    "author_img": "https://i.ibb.co.com/dJcMtd3R/boy1.png",
+    "posted_date": "March 10 2026",
+    "reading_time": 8,
     "hashtags": ["#javascript", "#webdev", "#coding"]
   },
   {
     "id": 2,
-    "cover": "https://i.ibb.co.com/Z64DmCnZ/upset-gloomy-uneasy-cute-pouting-redhead-girl-frowning-dont-want-speak-you-hiding-face.jpg",
+    "cover": "https://i.ibb.co.com/Jw64yR17/2.png",
     "title": "Getting Started with React",
     "author": "Sophia Lee",
-    "author_img": "https://randomuser.me/api/portraits/women/44.jpg",
-    "posted_date": "2026-03-12",
-    "reading_time": "6",
+    "author_img": "https://i.ibb.co.com/cckR6rfx/boy2.jpg",
+    "posted_date": "March 12 2026",
+    "reading_time": 6,
     "hashtags": ["#react", "#frontend", "#javascript"]
   },
   {
     "id": 3,
-    "cover": "https://i.ibb.co.com/cS7JRFpq/6987180.jpg",
+    "cover": "https://i.ibb.co.com/0y1yyK2T/3.png",
     "title": "CSS Grid vs Flexbox Explained",
     "author": "Michael Brown",
-    "author_img": "https://randomuser.me/api/portraits/men/65.jpg",
-    "posted_date": "2026-03-15",
-    "reading_time": "7",
+    "author_img": "https://i.ibb.co.com/hR5WS4sx/girl1.jpg",
+    "posted_date": "March 15 2026",
+    "reading_time": 7,
     "hashtags": ["#css", "#webdesign", "#frontend"]
   },
   {
     "id": 4,
-    "cover": "https://i.ibb.co.com/Ld7Zpb4z/6470534.jpg",
+    "cover": "https://i.ibb.co.com/Kzc7qhK3/4.jpgs",
     "title": "How APIs Work in Web Development",
     "author": "Emma Wilson",
-    "author_img": "https://randomuser.me/api/portraits/women/68.jpg",
-    "posted_date": "2026-03-18",
-    "reading_time": "5",
+    "author_img": "https://i.ibb.co.com/FbFy6Kts/girl2.jpg",
+    "posted_date": "March 18 2026",
+    "reading_time": 5,
     "hashtags": ["#api", "#backend", "#webdev"]
-  },
-  {
-    "id": 5,
-    "cover": "https://i.ibb.co.com/XxT0fC2j/5942142.jpg",
-    "title": "Beginner Guide to Git and GitHub",
-    "author": "Alex Martinez",
-    "author_img": "https://randomuser.me/api/portraits/men/21.jpg",
-    "posted_date": "2026-03-20",
-    "reading_time": "9",
-    "hashtags": ["#git", "#github", "#programming"]
   }
+  
 ]
